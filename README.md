@@ -1,5 +1,3 @@
 # Simple Neural Network
-A neural network written in Python, consisting of a single neuron that uses back propagation to learn.
+A neural network built in Python using numpy, with 3 input connections and 1 output connectionn.
 
-### Dependencies
-1. numpy
